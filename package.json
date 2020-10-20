@@ -1,0 +1,13 @@
+{
+  "name": "lazy-load",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^5.1.3",
+    "webpack-cli": "^4.1.0"
+  }
+}

@@ -1,0 +1,1 @@
+(self.webpackChunklazy_load=self.webpackChunklazy_load||[]).push([[446],{446:(s,e,a)=>{"use strict";a.r(e),a.d(e,{showMessage:()=>l});const l=()=>{console.log("Second Message")}}}]);
